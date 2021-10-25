@@ -1,0 +1,13 @@
+body {
+    background: #cecece ;
+}
+
+p {
+    color: #746f6f;
+}
+
+.foto {
+    width: 150px;
+    border: 4px outset #b8acac ;
+    border-radius: 60%;
+}

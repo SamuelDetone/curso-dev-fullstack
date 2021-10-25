@@ -1,0 +1,16 @@
+body {
+    background-image: url(yato.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 30%; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: #746f6f;
+}
+
+.foto {
+    width: 200px;
+}
